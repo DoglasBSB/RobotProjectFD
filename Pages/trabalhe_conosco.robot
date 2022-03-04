@@ -19,8 +19,9 @@
 ...     btnAddFormacao=//button[text()='+ Adicionar formação']
 ...     curriculo=//*[@id="validatedCustomFile"]
 ...     btnFinalizar=//*[@id="__layout"]/div/div/section/div/div/form/button/span
-...     sucesso=//*[text()="com sucesso"]
-#...     sucesso=//*[@id="__layout"]/div/div/section/div/div/h2/span
+...     li=//*[@id="consent"]
+...     sucesso=//*[@id="__layout"]/div/div/section/div/div/h2/span
+
 
 
 # Dicionário dos elementos 
@@ -37,4 +38,5 @@
 ...     endereco=Praça Cícero Ferreira
 ...     cep=58887000
 ...     resumo=Olá prezados, gostaria de informar que disponibilizei meu currículo de forma automatizada utilizando o Robot Framework. Desde já agradeço a oportunidade e me coloco à disposição para outras informações.
-...     sucesso=sucesso
+...     li=consent
+...     sucesso=com sucesso
