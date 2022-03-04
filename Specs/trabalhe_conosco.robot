@@ -30,11 +30,10 @@ Test
     Choose File  ${trabalheConosco.curriculo}  ${EXECDIR}/Currículo Doglas - TESTE-QA.pdf
     # Wait Until Page Contains - aguardar um tempo na página
     Wait Until Page Contains  Currículo Doglas - TESTE-QA.pdf  30
-    # rolar na página ate o botão finalizar
+    Click Element  ${trabalheConosco.li}
+    # rolar na página até o botão finalizar
     Scroll Element Into View  ${trabalheConosco.btnFinalizar}
     Click Element  ${trabalheConosco.btnFinalizar}
-    # aguardar 30s
-    # 
-    #Wait Until Element Contains  ${trabalheConosco.sucesso}  ${preencheCampos.sucesso}  30
+    Wait Until Element Contains  ${trabalheConosco.sucesso}  ${preencheCampos.sucesso}  30
 
 
