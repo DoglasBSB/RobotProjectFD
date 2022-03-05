@@ -70,6 +70,19 @@ $ pip install --upgrade robotframework-selenium2library
  ```bash
 $ pip freeze
 ```
+### Executando a automação
+
+:point_right: Antes da automação: executar o venv
+- Abrir CMD na pasta Scripts: 
+```bash
+#Digitar o comando
+$ activate
+```
+- Executar o comando na pasta raiz do Projeto para  rodar a automação
+ ```bash
+ $ robot –d .\Reports Specs\trabalhe_conosco.robot
+```
+ 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto e Versionamento de Código:
