@@ -90,9 +90,9 @@ As seguintes ferramentas foram usadas na construção do projeto e Versionamento
 - [Python](https://www.python.org/downloads/)
 - [Robot](https://robotframework.org/)
 - [ChromeDriver](https://chromedriver.chromium.org/)
-- [Git](https://git-scm.com/downloads)
+- [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 - [Vscode](https://code.visualstudio.com/download)
-- [Documentação do robot](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
+- [Git](https://git-scm.com/downloads)
 
 ### Licença
 
