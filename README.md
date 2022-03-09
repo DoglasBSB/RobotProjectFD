@@ -105,5 +105,5 @@ As seguintes ferramentas foram usadas na construção do projeto e Versionamento
 
 - 👋 Olá, sou Francisco Dôglas
 - 📚 Estou aprendendo e atualizando conhecimentos em automação de teste.
-- 👉 Procuro projetos onde possa colaborar com utilizando Robot, Cypress, Selenium e Python.
+- 👉 Procuro projetos onde possa colaborar utilizando Robot Framework, Cypress, Selenium e Python.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/franciscodôglas/
